@@ -6,6 +6,4 @@
 
 <p>React-Native kullanıldı</p>
 
-![](src/assets/gif/screen-1.gif)
-
-![](src/assets/gif/screen-2.gif)
+![](assets/gif/screen-1.gif)
